@@ -1,2 +1,2 @@
-# digital-store
-proposta de desenvolvimento de loja virtual de tênis. dc-fs08
+# Digital Store Shoes
+Proposta de desenvolvimento de loja virtual de tênis. DC-FS08
